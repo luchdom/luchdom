@@ -1,10 +1,10 @@
 # Hi, I'm Lucas Domingues 👋
 
-Senior Software Engineer and former Tech Lead based in São Paulo, Brazil.
+Software engineer based in São Paulo, Brazil, with over 13 years of experience building scalable software systems, with a strong focus on APIs, microservices, product delivery, and AI-augmented development.
 
-I build and scale web platforms, APIs, and SaaS systems with a strong bias toward product impact, user value, reliability, and operability. Over the last 13+ years, I have worked across fintech, payments, investments, referral programs, mobile apps, web apps, and internal platforms, usually close to the point where business needs, UI design iteration, architecture, and delivery quality meet.
+My work has supported high-scale platforms with significant market reach, including Nubank, one of the world's largest fintechs with 130M+ customers, and Playlist, a SaaS platform serving 40k+ business subscribers and millions of end users.
 
-Lately, I have been especially focused on AI-augmented development and agentic engineering workflows: using AI coding assistants to speed up research, planning, implementation, refactoring, and technical discovery while keeping the engineering bar high.
+I like working close to the point where business outcomes, UI design iteration, user value, architecture, reliability, and operability meet.
 
 - 🔭 Currently working on payments, POS, reliability, product analytics, and platform-scale product delivery
 - 🧠 Exploring agentic workflows, spec-driven development, and better developer tooling
