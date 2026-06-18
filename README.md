@@ -2,11 +2,11 @@
 
 Senior Software Engineer and former Tech Lead based in São Paulo, Brazil.
 
-I build and scale web platforms, APIs, and SaaS systems with a strong bias toward product impact, reliability, and operability. Over the last 13+ years, I have worked across fintech, payments, investments, referral programs, mobile apps, web apps, and internal platforms, usually close to the point where business needs, architecture, and delivery quality meet.
+I build and scale web platforms, APIs, and SaaS systems with a strong bias toward product impact, user value, reliability, and operability. Over the last 13+ years, I have worked across fintech, payments, investments, referral programs, mobile apps, web apps, and internal platforms, usually close to the point where business needs, UI design iteration, architecture, and delivery quality meet.
 
-Lately, I have been especially focused on AI-augmented development and agentic engineering workflows: using tools like Codex, Cursor, and Claude Code to speed up research, planning, implementation, refactoring, and technical discovery while keeping the engineering bar high.
+Lately, I have been especially focused on AI-augmented development and agentic engineering workflows: using AI coding assistants to speed up research, planning, implementation, refactoring, and technical discovery while keeping the engineering bar high.
 
-- 🔭 Currently working on payments, POS, reliability, and platform-scale product delivery
+- 🔭 Currently working on payments, POS, reliability, product analytics, and platform-scale product delivery
 - 🧠 Exploring agentic workflows, spec-driven development, and better developer tooling
 - 💬 Happy to talk about C#, .NET, distributed systems, microservices, observability, and AI-assisted engineering
 - 🌎 Portuguese native, English professional
@@ -48,9 +48,16 @@ Lately, I have been especially focused on AI-augmented development and agentic e
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
 
+### Feature Management & Product Analytics
+
+![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-405BFF?style=for-the-badge&logo=launchdarkly&logoColor=white)
+![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=for-the-badge&logo=amplitude&logoColor=white)
+![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)
+![Feature Management](https://img.shields.io/badge/Feature%20Management-3949AB?style=for-the-badge)
+![Product Analytics](https://img.shields.io/badge/Product%20Analytics-00897B?style=for-the-badge)
+
 ### AI & Engineering Workflow
 
-![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge)
 ![Spec Driven](https://img.shields.io/badge/Spec--Driven%20Development-2E7D32?style=for-the-badge)
@@ -60,6 +67,7 @@ Lately, I have been especially focused on AI-augmented development and agentic e
 ### Ways of Working
 
 - Product-minded feature delivery, technical discovery, and cross-team alignment
+- Feature management, product analytics, tagging strategy, and UI feedback loops
 - Code review, mentoring, RFCs, ADRs, C4 models, sequence diagrams, and architecture decision-making
 - SOLID, Clean Code, Domain-Driven Design, event-driven architecture, CI/CD, unit and integration testing
 - Agile delivery, backlog refinement, incident-aware engineering, and observability as part of definition of done
