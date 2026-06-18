@@ -53,8 +53,6 @@ I like working close to the point where business outcomes, UI design iteration, 
 ![LaunchDarkly](https://img.shields.io/badge/LaunchDarkly-405BFF?style=for-the-badge&logo=launchdarkly&logoColor=white)
 ![Amplitude](https://img.shields.io/badge/Amplitude-1E61F0?style=for-the-badge&logo=amplitude&logoColor=white)
 ![PostHog](https://img.shields.io/badge/PostHog-000000?style=for-the-badge&logo=posthog&logoColor=white)
-![Feature Management](https://img.shields.io/badge/Feature%20Management-3949AB?style=for-the-badge)
-![Product Analytics](https://img.shields.io/badge/Product%20Analytics-00897B?style=for-the-badge)
 
 ### AI & Engineering Workflow
 
