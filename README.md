@@ -58,6 +58,7 @@ I like working close to the point where business outcomes, UI design iteration, 
 
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
 ![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge)
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
 ![Spec Driven](https://img.shields.io/badge/Spec--Driven%20Development-2E7D32?style=for-the-badge)
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7B1FA2?style=for-the-badge)
 ![Developer Automation](https://img.shields.io/badge/Developer%20Automation-455A64?style=for-the-badge)
