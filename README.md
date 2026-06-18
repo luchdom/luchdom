@@ -1,41 +1,83 @@
-# 👋 About me
-Hi there, 
-I am Lucas Domingues.
-Passionate developer, empowered leadership and tech enthusiast.
+# Hi, I'm Lucas Domingues 👋
 
-Graduated in Computer Engineering, with more than 11 years of experience in software development, architecture and maintenance. I've been working on high scalability systems with millions of users, mainly focused on web microservices APIs, in a collaborative role providing technical guidance, encouraging leadership to the ones I mentor, also designing and orchestrating features development across teams.
+Senior Software Engineer and former Tech Lead based in São Paulo, Brazil.
 
-I've worked in projects for companies like Brasil Kirin (bought by Heineken), Audi, Tracy Locke, ADP, Berlitz, among others, creating web apps, APIs, hotsites and applications using .NET platform technologies (.NET Core, MVC, WebForms, Xamarin). 
+I build and scale web platforms, APIs, and SaaS systems with a strong bias toward product impact, reliability, and operability. Over the last 13+ years, I have worked across fintech, payments, investments, referral programs, mobile apps, web apps, and internal platforms, usually close to the point where business needs, architecture, and delivery quality meet.
+
+Lately, I have been especially focused on AI-augmented development and agentic engineering workflows: using tools like Codex, Cursor, and Claude Code to speed up research, planning, implementation, refactoring, and technical discovery while keeping the engineering bar high.
+
+- 🔭 Currently working on payments, POS, reliability, and platform-scale product delivery
+- 🧠 Exploring agentic workflows, spec-driven development, and better developer tooling
+- 💬 Happy to talk about C#, .NET, distributed systems, microservices, observability, and AI-assisted engineering
+- 🌎 Portuguese native, English professional
 
 # 💻 Main Tech Stack
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/Rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)  ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 
- ### Others process
- - Agile methodologies, Code Review/PullRequest, backlog refinement, retro's, dailys, branch flows, SOLID, Clean Code, DDD, architecture patterns and more.
- - Documentations: RFC, ADR, C4 model, diagram flow, sequence diagram and more
 
-# 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/luchdom) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashdomingues/?locale=en_US) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/lucas.h.domingues/)
+### Languages & Frameworks
 
-# 📊 GitHub Stats:
-My main contributions are on private repos, with more thans 700+
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=.net&logoColor=white)
+![Clojure](https://img.shields.io/badge/Clojure-5881D8?style=for-the-badge&logo=clojure&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=luchdom&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=luchdom&theme=vision-friendly-dark&hide_border=false"  width="400px" />
+### Architecture, Cloud & Delivery
 
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+![DDD](https://img.shields.io/badge/DDD-6A5ACD?style=for-the-badge)
+![Event Driven](https://img.shields.io/badge/Event--Driven-FF6F00?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0072C6?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-2C5263?style=for-the-badge&logo=jenkins&logoColor=white)
 
+### Messaging, Data & Observability
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=luchdom&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![New Relic](https://img.shields.io/badge/New%20Relic-1CE783?style=for-the-badge&logo=newrelic&logoColor=white)
 
-<!--
-**luchdom/luchdom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI & Engineering Workflow
 
-Here are some ideas to get you started:
+![Codex](https://img.shields.io/badge/Codex-111111?style=for-the-badge&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge)
+![Spec Driven](https://img.shields.io/badge/Spec--Driven%20Development-2E7D32?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-7B1FA2?style=for-the-badge)
+![Developer Automation](https://img.shields.io/badge/Developer%20Automation-455A64?style=for-the-badge)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Ways of Working
+
+- Product-minded feature delivery, technical discovery, and cross-team alignment
+- Code review, mentoring, RFCs, ADRs, C4 models, sequence diagrams, and architecture decision-making
+- SOLID, Clean Code, Domain-Driven Design, event-driven architecture, CI/CD, unit and integration testing
+- Agile delivery, backlog refinement, incident-aware engineering, and observability as part of definition of done
+
+# 🌐 Socials
+
+[![Website](https://img.shields.io/badge/luchdom.com-111111?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://luchdom.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucashdomingues/?locale=en_US)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luchdom)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/lucas.h.domingues/)
+
+# 📊 GitHub Stats
+
+Most of my day-to-day contributions happen in private repositories, so the public graph only tells part of the story.
+
+<p>
+  <img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=luchdom&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false" width="364px" alt="Lucas Domingues GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=luchdom&theme=vision-friendly-dark&hide_border=false" width="400px" alt="Lucas Domingues GitHub streak" />
+</p>
+
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=luchdom&theme=vision-friendly-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most used public GitHub languages" />
